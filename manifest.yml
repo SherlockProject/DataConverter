@@ -1,0 +1,5 @@
+applications:
+- name: nodetestt
+  host: nodetestt-tp
+  memory: 128M
+  command: node app.js
