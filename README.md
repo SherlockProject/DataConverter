@@ -11,11 +11,12 @@ THINGS TO NOTICE IF YOU WANT TO RUN THIS CODE:
   datapath before running the code - otherwise nothing exept errors will happen!
  
  
- Issue that one might want to fix: 
- - The xlsx converter produces JSON files, while the csv converter does not. Since the files are not needed, they should
+Issue that one might want to fix: 
+- The xlsx converter produces JSON files, while the csv converter does not. Since the files are not needed, they should
    be deleted afterwards.
    
-Changelog:
+
+*Changelog:*
 
 1.0 - Basic version uploaded
  
